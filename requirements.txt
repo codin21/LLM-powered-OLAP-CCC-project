@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+openai
+langchain
+transformers
+langchain-openai
+python-dotenv
+torch
+langchain-community
+openpyxl
